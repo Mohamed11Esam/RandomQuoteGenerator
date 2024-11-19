@@ -1,0 +1,21 @@
+body {
+  color: white;
+  text-align: center;
+}
+h1 {
+  font-size: 80px;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  font-weight: bold;
+}
+p {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 35px;
+  padding: 20px;
+}
+.box {
+  background-image: url(../images/Wallpaper\ Backgrounds\ Aesthetic\ Dark\ Pc.jfif);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  padding-top: 50px;
+}
